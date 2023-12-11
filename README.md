@@ -18,9 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This documentation presents a detailed overview and explanation of the HTML and CSS files constituting the QR Code Component. The primary objective of this challenge was to create a responsive QR code component.
 
 ### Screenshot
+| Desktop                                    | Mobile                                    | 
+| ------------------------------------------ | ----------------------------------------- |
+| ![](./screenshots/desktop-screenshot.png)  | ![](./screenshots/mobile-screenshot.png)  | 
 
-![](./screenshots/desktop-screenshot.png)
-![](./screenshots/mobile-screenshot.png)
+
 
 ### Links
 
